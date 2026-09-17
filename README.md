@@ -19,7 +19,7 @@ Vengo del periodismo y hace poco terminé el Grado Superior de Desarrollo de Apl
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=rss&logoColor=white)](https://nelsongaliciacarreroal-jtvas.wordpress.com/)
 [![Website](https://img.shields.io/badge/Portfolio-4FC08D?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pistachopower.github.io/)
 
-> Sustituye TU-EMAIL y TU-BLOG por los tuyos reales.
+
 
 ---
 
@@ -37,4 +37,4 @@ Vengo del periodismo y hace poco terminé el Grado Superior de Desarrollo de Apl
 
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Django](https://img
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
